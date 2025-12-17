@@ -40,7 +40,7 @@ public class StudentEntity {
     public void setCgpa(float cgpa){
         this.cgpa=cgpa;
     }
-    public String getCgpa(){
+    public float getCgpa(){
         return this.cgpa;
     }
 
